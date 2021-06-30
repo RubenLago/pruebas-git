@@ -6,7 +6,8 @@
 #fondoFormulario{
     background-image: url(images/DSCF5789.01.jpg) ;
     background-size: cover;
-    height: 400px;
+    height:600px;
+    width: 100%;
 }
 form{
     margin: 10px;
