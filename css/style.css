@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#fondoFormulario{
+    background-image: url(images/DSCF5789.01.jpg) ;
+    background-size: cover;
+    height: 400px;
+}
+form{
+    margin: 10px;
+    padding: 10px;
+}
